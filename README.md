@@ -13,3 +13,12 @@ quiz folder --> JS files that organize quiz;
 File: app.js --> Edit Result text and text Questions.
 <br><br>
 ![quiz - result](https://user-images.githubusercontent.com/25770109/80723681-4fd23780-8ad7-11ea-8883-913fe3b22f0f.png)
+
+<br><br>
+## Authors
+
+* **Emerson Correia**  - [emerson-correia-silva](https://github.com/emerson-correia-silva)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
