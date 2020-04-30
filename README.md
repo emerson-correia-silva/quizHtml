@@ -9,5 +9,5 @@ assets folder --> Bootstrap files;
 quiz folder --> JS files that organize quiz;<br>
   app.js --> Edit Result text and text Questions.
   
-[Screenshot](https://ibb.co/3Ryw1zM)
+![quiz - template](https://user-images.githubusercontent.com/25770109/80723254-cb7fb480-8ad6-11ea-9de3-40061cdc69a9.png)
 
