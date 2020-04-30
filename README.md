@@ -10,3 +10,4 @@ quiz folder --> JS files that organize quiz;<br>
   app.js --> Edit Result text and text Questions.
   
 [Screenshot](https://ibb.co/3Ryw1zM)
+
