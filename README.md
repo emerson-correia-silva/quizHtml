@@ -1,6 +1,8 @@
 # quizHtml
 Quiz (short test) in HTML5 and Javascrip codes.
-Files:
+Quiz system made from Bootstrap HTML5.
+
+#Files:
 
 assets folder --> Bootstrap files;
 
