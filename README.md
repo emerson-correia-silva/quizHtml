@@ -6,6 +6,6 @@ Quiz system made from Bootstrap HTML5.
 
 assets folder --> Bootstrap files;
 
-quiz folder --> JS files that organize quiz;
+quiz folder --> JS files that organize quiz;<br>
   app.js --> Edit Result text and text Questions.
   
