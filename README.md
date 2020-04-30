@@ -2,7 +2,7 @@
 Quiz (short test) in HTML5 and Javascrip codes.
 Quiz system made from Bootstrap HTML5.
 
-#Files:
+# Files:
 
 assets folder --> Bootstrap files;
 
